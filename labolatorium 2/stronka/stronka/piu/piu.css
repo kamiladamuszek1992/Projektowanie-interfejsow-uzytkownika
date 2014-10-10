@@ -1,0 +1,50 @@
+body{
+margin-top: 5px;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+line-height: 18px;
+background-image:url('belka1.png');
+background-repeat:repeat-x;
+}
+
+td.tresc
+{
+padding-left: 15px;
+padding-right: 15px;
+}
+
+p {text-align: justify;}
+
+table.glowna{
+border: black 1px solid;
+background-color: white;
+}
+
+td.naglowek{
+width: 960px;
+height: 230px;
+background-image:url('header1.png');
+}
+
+
+td.menu_t{
+width: 200px;
+height: 28px;
+border-bottom: black 1px solid;
+}
+
+
+
+a.menu_l{
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+text-decoration: none;
+color: #484848; 
+font-weight: bold;
+}
+
+a.menu_l:hover
+{
+text-decoration: underline;
+color: maroon;
+}
